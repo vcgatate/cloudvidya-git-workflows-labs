@@ -1,0 +1,9 @@
+# Course Catalog
+
+Available courses:
+
+1. AWS Cloud Engineering
+2. DevOps and Automation
+3. AI and Cloud Application Development
+4. Python Programming
+EOF
